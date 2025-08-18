@@ -21,6 +21,6 @@ I’m passionate about applying **AI principles** and **problem-solving skills**
 ---
 
 ### 🚀 Let’s connect!
-- GitHub: [@AnuragBanger](https://github.com/Anuraag93)  
+- GitHub: [@Anuraag93](https://github.com/Anuraag93)  
 - LinkedIn: [Anurag Banger](https://www.linkedin.com/in/anurag-banger/)  
-- Email: [your.email@example.com](mailto:anuragbbanger@gmail.com)
+- Email: [anuragbbanger@gmail.com](mailto:anuragbbanger@gmail.com)
