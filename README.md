@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I’m Anurag Banger!
 
-<!--
-**Anuraag93/Anuraag93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** with 5+ years of experience building **AI-driven solutions** and **scalable applications** across mobile, web, and cloud.  
 
-Here are some ideas to get you started:
+I specialize in:
+- ⚡ **Flutter, Next.js, n8n, ElevenLabs**  
+- 🤖 Creating **AI agents** and **automation workflows** that deliver real-world impact  
+- 🔒 Developing **secure systems**, including cryptography modules for sensitive data and tokenized payments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve led projects **end-to-end**, from concept to deployment. Some highlights of my work include:  
+- Implementing **LLM-based solutions** for RAG  
+- Designing **AI voice agents**  
+- Building **high-performance, secure Flutter applications**  
+
+🎓 With a **Master’s in AI** and **Microsoft Azure certifications** (DP-100, AI-900), I combine technical depth with hands-on experience across **Azure, Firebase, and GCP**.  
+
+💡 I’m recognized for **collaboration in multicultural teams**, attention to detail, and **continuous innovation**.  
+
+I’m passionate about applying **AI principles** and **problem-solving skills** to build intelligent, **scalable, and user-centric applications** that push technology forward.  
+
+---
+
+### 🚀 Let’s connect!
+- GitHub: [@AnuragBanger](https://github.com/AnuragBanger)  
+- LinkedIn: [Anurag Banger](https://www.linkedin.com/in/anuragbanger)  
+- Email: [your.email@example.com](mailto:your.email@example.com)
