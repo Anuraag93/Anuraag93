@@ -1,26 +1,54 @@
-# Hi there 👋, I’m Anurag Banger!
+<!-- Banner or fun header -->
+![AI Engineer Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZrZGZsNmM5dm40bTdtYjZsM3JybzltMThzZTdmcjBuZmN2bjVuciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
 
-I’m a **Software Engineer** with 5+ years of experience building **AI-driven solutions** and **scalable applications** across mobile, web, and cloud.  
-
-I specialize in:
-- ⚡ **Flutter, Next.js, n8n, ElevenLabs**  
-- 🤖 Creating **AI agents** and **automation workflows** that deliver real-world impact  
-- 🔒 Developing **secure systems**, including cryptography modules for sensitive data and tokenized payments  
-
-I’ve led projects **end-to-end**, from concept to deployment. Some highlights of my work include:  
-- Implementing **LLM-based solutions** for RAG  
-- Designing **AI voice agents**  
-- Building **high-performance, secure Flutter applications**  
-
-🎓 With a **Master’s in AI** and **Microsoft Azure certifications** (DP-100, AI-900), I combine technical depth with hands-on experience across **Azure, Firebase, and GCP**.  
-
-💡 I’m recognized for **collaboration in multicultural teams**, attention to detail, and **continuous innovation**.  
-
-I’m passionate about applying **AI principles** and **problem-solving skills** to build intelligent, **scalable, and user-centric applications** that push technology forward.  
+# Hey there 👋, I’m **Anurag Banger**  
+*Building AI-powered apps, automation workflows & secure systems 🚀*
 
 ---
 
-### 🚀 Let’s connect!
-- GitHub: [@Anuraag93](https://github.com/Anuraag93)  
-- LinkedIn: [Anurag Banger](https://www.linkedin.com/in/anurag-banger/)  
-- Email: [anuragbbanger@gmail.com](mailto:anuragbbanger@gmail.com)
+### 🧑‍💻 About Me
+- **Software Engineer (5+ yrs)** delivering **AI-driven solutions** & **scalable apps**  
+- Skilled at **end-to-end development** — from concept → deployment  
+- Passionate about **AI agents**, **automation**, and **problem-solving with impact**  
+- Holder of **Master’s in AI** + **Microsoft Azure DP-100 & AI-900 certifications**  
+
+---
+
+### ⚡ Tech I Play With
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6A00?logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-AE30FF?logo=elevenlabs&logoColor=white)
+
+---
+
+### 🚀 What I’ve Built
+- **AI voice agent** (Twilio + ElevenLabs + n8n) → handled calls, bookings, and queries  
+- **LLM-powered knowledge base** → structured RAG pipelines for insight generation  
+- **High-performance Flutter apps** → secure cryptography module for tokenized payments  
+- **Recommendations engine** → boosted content discovery for web platforms  
+- **Cross-platform apps** at scale → Android + iOS + Web using Flutter/Dart  
+
+---
+
+### 🏆 Highlights
+- **Reduced onboarding time** by re-architecting project structures & writing docs  
+- **Improved reliability** with full-stack testing (Unit, Widget, Integration)  
+- **Collaborated globally** with diverse teams using Agile, Git, Jira, Confluence  
+- **Optimized deployments** using CI/CD pipelines (Codemagic, Firebase, Azure DevOps)  
+
+---
+
+### 🌐 Let’s Connect!
+[![GitHub](https://img.shields.io/badge/GitHub-Anuraag93-181717?logo=github)](https://github.com/Anuraag93)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Banger-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anurag-banger/)
+[![Gmail](https://img.shields.io/badge/Email-anuragbbanger%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:anuragbbanger@gmail.com)
+
+---
+
+> *"I combine AI principles with secure engineering practices to build apps that are fast, reliable, and actually fun to use."*  
