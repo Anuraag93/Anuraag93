@@ -1,5 +1,5 @@
 # Hey there! I'm Anurag 👋 
-### AI Engineer | Flutter Enthusiast | Automation Wizard 🧙‍♂️
+### AI Engineer | Flutter Enthusiast | Full Stack Developer | Automation Wizard 🧙‍♂️
 
 <div align="center">
   
